@@ -223,4 +223,4 @@ Normalized and transformed using Excel Power Query, Python and SQL Server for an
 
 Data Analyst focused on business intelligence, SQL, Power BI and data driven decision making.
 
-[LinkedIn]
+
